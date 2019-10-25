@@ -1,0 +1,22 @@
+{
+  "name": "conquer",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyDrake/project_conquer.git"
+  },
+  "author": "TonyDrake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyDrake/project_conquer/issues"
+  },
+  "homepage": "https://github.com/AnthonyDrake/project_conquer#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
